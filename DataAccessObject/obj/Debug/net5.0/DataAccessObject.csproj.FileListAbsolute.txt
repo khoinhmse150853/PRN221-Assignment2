@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\DataAccessObject\bin\Debug\net5.0\DataAccessObject.deps.json
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\DataAccessObject\bin\Debug\net5.0\DataAccessObject.dll
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\DataAccessObject\bin\Debug\net5.0\ref\DataAccessObject.dll
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\DataAccessObject\bin\Debug\net5.0\DataAccessObject.pdb
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\DataAccessObject\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\DataAccessObject\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\DataAccessObject\obj\Debug\net5.0\DataAccessObject.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\DataAccessObject\obj\Debug\net5.0\DataAccessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\DataAccessObject\obj\Debug\net5.0\DataAccessObject.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\DataAccessObject\obj\Debug\net5.0\DataAccessObject.AssemblyInfo.cs
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\DataAccessObject\obj\Debug\net5.0\DataAccessObject.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\DataAccessObject\obj\Debug\net5.0\DataAccessObject.csproj.CopyComplete
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\DataAccessObject\obj\Debug\net5.0\DataAccessObject.dll
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\DataAccessObject\obj\Debug\net5.0\ref\DataAccessObject.dll
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\DataAccessObject\obj\Debug\net5.0\DataAccessObject.pdb

@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\Repository\bin\Debug\net5.0\Repository.dll
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\Repository\bin\Debug\net5.0\ref\Repository.dll
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\Repository\bin\Debug\net5.0\Repository.pdb
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\Repository\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\Repository\bin\Debug\net5.0\DataAccessObject.dll
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\Repository\bin\Debug\net5.0\DataAccessObject.pdb
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\Repository\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\Repository\obj\Debug\net5.0\Repository.dll
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\Repository\obj\Debug\net5.0\ref\Repository.dll
+C:\Users\DELL\source\repos\NguyenHuynhMinhKhoi_SE150853_A02\Repository\obj\Debug\net5.0\Repository.pdb
